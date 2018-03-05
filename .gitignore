@@ -1,3 +1,6 @@
+.idea/*
+!.idea/runConfigurations
+
 # Logs
 logs
 *.log

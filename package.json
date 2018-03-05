@@ -1,0 +1,28 @@
+{
+  "name": "ng-style-bars",
+  "version": "1.0.0",
+  "description": "Angular 5 component with range bars + customizable colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/smolinska/ng-style-bars.git"
+  },
+  "keywords": [
+    "angular",
+    "ng",
+    "angular5",
+    "ionic",
+    "bar",
+    "range",
+    "percent"
+  ],
+  "author": "Paulina Smolińska",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smolinska/ng-style-bars/issues"
+  },
+  "homepage": "https://github.com/smolinska/ng-style-bars#readme"
+}
